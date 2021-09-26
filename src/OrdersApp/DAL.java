@@ -14,7 +14,7 @@ public class DAL {
     }
 
     public static void connect() {
-        connection = Connect("...", "2");
+        connection = Connect();
     }
 
     public static ResultSet getUsername(String username, int password) {

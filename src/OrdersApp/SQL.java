@@ -7,8 +7,10 @@ public class SQL {
 	// Server Credentials
     static final String USERNAME = "...";
     static final String MYPASS = "...";
+    static final String BDname = "...";
+    static final String sgbd = "...";
 
-    public static Connection Connect(String BDname, String sgbd) {
+    public static Connection Connect() {
         Connection conn = null;
         try {
             String cstr;
