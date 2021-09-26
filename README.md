@@ -2,7 +2,7 @@
 
 ## SQL
 
-A Database was developed to simulate the relationship between restaurants, menus, dishes, suppliers, shipment and clients. In the folder "sql" you'll find a **.dia** file containing a diagram for the Database, and a **.sql** file containing its creation and testing.
+A Database was developed to simulate the relationship between restaurants, menus, dishes, suppliers, shipment and clients. In the folder "sql" you'll find a **.dia** file containing a diagram for the Database, and also a **.sql** file containing its creation and testing.
 
 
 ## Java
